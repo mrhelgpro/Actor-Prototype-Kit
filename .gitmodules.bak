@@ -1,0 +1,6 @@
+[submodule "Assets/Actor Prototype Kit/Assembly Actor Core"]
+	path = Assets/Actor Prototype Kit/Assembly Actor Core
+	url = https://github.com/mrhelgpro/Assembly-Actor-Core
+[submodule "Assets/Actor Prototype Kit/Assembly Prototype Resources"]
+	path = Assets/Actor Prototype Kit/Assembly Prototype Resources
+	url = https://github.com/mrhelgpro/Assembly-Prototype-Resources
